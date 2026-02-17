@@ -14,10 +14,10 @@ OOP principles, and Plotly**.
 Raw e-commerce data is rarely clean. This pipeline simulates a
 real-world scenario where transaction logs must be:
 
-1.  Validated\
-2.  Cleaned\
-3.  Modeled\
-4.  Analyzed\
+1.  Validated
+2.  Cleaned
+3.  Modeled
+4.  Analyzed
 5.  Visualized
 
 Each phase is modular and executable independently, following clean
