@@ -21,6 +21,7 @@ ecommerce-project/
 ├── sales_trend.png                # Output: Visual of sales over time
 ├── correlation_matrix.png         # Output: Heatmap of financial metrics
 └── interactive_scatter.html       # Output: Interactive Plotly visualization
+```
 
 🚀 Features & Workflow
 Phase 1: Data Validation (data_validator.py)
