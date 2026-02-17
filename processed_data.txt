@@ -1,0 +1,7 @@
+{'id': 'ID-1234', 'amount': '150.50', 'region': 'US', 'date': '2023-10-01'}
+{'id': 'ID-1235', 'amount': '22.75', 'region': 'US', 'date': '2023-10-05'}
+{'id': 'ID-1236', 'amount': '264.00', 'region': 'UK', 'date': '2023-10-3'}
+{'id': 'ID-1237', 'amount': '550.25', 'region': 'UK', 'date': '2023-10-7'}
+{'id': 'ID-1240', 'amount': '950.75', 'region': 'US', 'date': '2023-10-8'}
+{'id': 'ID-1242', 'amount': '740.50', 'region': 'UK', 'date': '2023-10-15'}
+{'id': 'ID-1243', 'amount': '66.25', 'region': 'US', 'date': '2023-10-20'}
